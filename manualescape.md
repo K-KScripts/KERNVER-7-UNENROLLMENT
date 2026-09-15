@@ -120,3 +120,6 @@ Determination.
   throttle or change them; verify failure doesn't always mean the poison failed — check OOBE.
 - No bulk mode (Phase 3), no shim payload wrapper — single serial per run.
 - Server-side fix (key rotation binding, registration auth) would kill this class entirely.
+
+# UPDATE!!!
+
