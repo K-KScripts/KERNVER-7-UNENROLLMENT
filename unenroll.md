@@ -13,7 +13,7 @@
   * [icarus](##chromeos-v129-and-below---icarus)
   * [BadApple+Icarus]()
   * [CRSH2TTY](#crsh2tty--all-versions--patched-)
-  *[ManualEscape](#chromeos-v147-and-below---manualescape)
+  * [ManualEscape](manualescape.md)
   
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
