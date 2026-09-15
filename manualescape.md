@@ -122,4 +122,5 @@ Determination.
 - Server-side fix (key rotation binding, registration auth) would kill this class entirely.
 
 # UPDATE!!!
-
+NEW METHOD, PREBUILTS AVAILABLE:
+https://dl.snerill.org/ManualEscape
