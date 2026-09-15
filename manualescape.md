@@ -14,7 +14,7 @@ verification (Phase 1) and deprovision (Phase 2).
 
 ## How it works
 
-1. **OAuth launder.** Exchange a fresh OOBE auth-code with the Chrome
+1. **OAuth launcher.** Exchange a fresh OOBE auth-code with the Chrome
    enrollment client (`77185425430.apps.googleusercontent.com`) for a
    `refresh_token`, then an `access_token` scoped to
    `chromeosdevicemanagement + userinfo.email`.
