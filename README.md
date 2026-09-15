@@ -1,7 +1,7 @@
 # KERNVER-7-UNENROLLMENT
 
 * [DISCLAIMER!!!](#disclaimer)
-* [Unenrollment](#unenroll.md)
+* [Unenrollment](unenroll.md)
 
 ## DISCLAIMER!!!
 I am ***NOT*** responsible for any damage to devices or if you brick a device, and I'm also ***NOT*** responsible if you get in trouble for unenrollment or theft.
